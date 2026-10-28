@@ -1,0 +1,6 @@
+{
+  "name": "Cova Real Estate & Constructions",
+  "description": "Minimalist luxury real estate, architectural developments, short-let residences, and interactive Port Harcourt property intelligence by Cova Real Estate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
